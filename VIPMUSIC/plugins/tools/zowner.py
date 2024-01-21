@@ -38,7 +38,7 @@ async def help(client: Client, message: Message):
             [
                 [
                     InlineKeyboardButton(
-                        "🌱ƨσʋяcɛ🌱", url=f"https://github.com/Vivekkumar07089/Vip-music")
+                        "🌱ƨσʋяcɛ🌱", url=f"https://github.com/rsp0488/samantaxmusic")
                 ]
             ]
         ),
@@ -55,7 +55,7 @@ async def help(client: Client, message: Message):
             [
                 [
                     InlineKeyboardButton(
-                        "🌱ƨσʋяcɛ🌱", url=f"https://github.com/Vivekkumar07089/Vip-music")
+                        "🌱ƨσʋяcɛ🌱", url=f"https://github.com/rsp0488/samantaxmusic")
                 ]
             ]
         ),
