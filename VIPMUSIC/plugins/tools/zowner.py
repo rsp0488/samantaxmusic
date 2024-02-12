@@ -49,7 +49,7 @@ async def help(client: Client, message: Message):
     & filters.private)
 async def help(client: Client, message: Message):
     await message.reply_photo(
-        photo=f"https://te.legra.ph/file/4b52da6d880cbb199298a.jpg",
+        photo=f"https://i.pinimg.com/736x/d7/a7/af/d7a7af154456e19db2e8843943b5dc48.jpg",
         caption=f"""ᴄʟɪᴄᴋ ʙᴇʟᴏᴡ ʙᴜᴛᴛᴏɴ ᴛᴏ ɢᴇᴛ ʀᴇᴘᴏ""",
         reply_markup=InlineKeyboardMarkup(
             [
